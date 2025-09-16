@@ -1,0 +1,88 @@
+2025-09-15 21:33:53 [WARN]: OpenAI API密鑰未配置，OpenAI功能將不可用 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:33:53 [WARN]: Claude API密鑰未配置，Claude功能將不可用 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:34:20 [WARN]: OpenAI API密鑰未配置，OpenAI功能將不可用 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:34:20 [WARN]: Claude API密鑰未配置，Claude功能將不可用 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:34:20 [ERROR]: 資料庫連接測試失敗: {
+  "service": "osce-lesson-system",
+  "code": "ECONNREFUSED"
+}
+AggregateError [ECONNREFUSED]: 
+    at C:\Users\lu801\Claudecode\osce教案開發\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Database.testConnection (C:\Users\lu801\Claudecode\osce教案開發\src\config\database.js:25:28)
+    at async startServer (C:\Users\lu801\Claudecode\osce教案開發\src\server.js:91:13)
+2025-09-15 21:34:20 [WARN]: 資料庫連接失敗，系統將以測試模式運行: {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:34:20 [WARN]: 部分功能（如用戶註冊、教案保存）將不可用 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:34:20 [INFO]: 
+🚀 OSCE教案系統API伺服器已啟動 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:34:20 [INFO]: 📡 服務端口: 3000 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:34:20 [INFO]: 🌐 API基礎URL: http://localhost:3000/api/v1 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:34:20 [INFO]: 💚 健康檢查: http://localhost:3000/health {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:34:20 [INFO]: 📚 模擬模式: 已啟用 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 21:34:20 [INFO]: 
+✨ 系統準備就緒！可以開始測試API功能 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 23:15:30 [WARN]: OpenAI API密鑰未配置，OpenAI功能將不可用 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 23:15:30 [WARN]: Claude API密鑰未配置，Claude功能將不可用 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 23:15:30 [ERROR]: 資料庫連接測試失敗: {
+  "service": "osce-lesson-system",
+  "code": "ECONNREFUSED"
+}
+AggregateError [ECONNREFUSED]: 
+    at C:\Users\lu801\Claudecode\osce教案開發\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Database.testConnection (C:\Users\lu801\Claudecode\osce教案開發\src\config\database.js:25:28)
+    at async startServer (C:\Users\lu801\Claudecode\osce教案開發\src\server.js:91:13)
+2025-09-15 23:15:30 [WARN]: 資料庫連接失敗，系統將以測試模式運行: {
+  "service": "osce-lesson-system"
+}
+2025-09-15 23:15:30 [WARN]: 部分功能（如用戶註冊、教案保存）將不可用 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 23:15:30 [INFO]: 
+🚀 OSCE教案系統API伺服器已啟動 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 23:15:30 [INFO]: 📡 服務端口: 3000 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 23:15:30 [INFO]: 🌐 API基礎URL: http://localhost:3000/api/v1 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 23:15:30 [INFO]: 💚 健康檢查: http://localhost:3000/health {
+  "service": "osce-lesson-system"
+}
+2025-09-15 23:15:30 [INFO]: 📚 模擬模式: 已啟用 {
+  "service": "osce-lesson-system"
+}
+2025-09-15 23:15:30 [INFO]: 
+✨ 系統準備就緒！可以開始測試API功能 {
+  "service": "osce-lesson-system"
+}

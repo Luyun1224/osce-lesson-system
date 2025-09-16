@@ -1,0 +1,27 @@
+2025-09-15 21:33:53 [ERROR]: 資料庫連接測試失敗: {
+  "service": "osce-lesson-system",
+  "code": "ECONNREFUSED"
+}
+AggregateError [ECONNREFUSED]: 
+    at C:\Users\lu801\Claudecode\osce教案開發\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Database.testConnection (C:\Users\lu801\Claudecode\osce教案開發\src\config\database.js:25:28)
+    at async startServer (C:\Users\lu801\Claudecode\osce教案開發\src\server.js:90:9)
+2025-09-15 21:34:20 [ERROR]: 資料庫連接測試失敗: {
+  "service": "osce-lesson-system",
+  "code": "ECONNREFUSED"
+}
+AggregateError [ECONNREFUSED]: 
+    at C:\Users\lu801\Claudecode\osce教案開發\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Database.testConnection (C:\Users\lu801\Claudecode\osce教案開發\src\config\database.js:25:28)
+    at async startServer (C:\Users\lu801\Claudecode\osce教案開發\src\server.js:91:13)
+2025-09-15 23:15:30 [ERROR]: 資料庫連接測試失敗: {
+  "service": "osce-lesson-system",
+  "code": "ECONNREFUSED"
+}
+AggregateError [ECONNREFUSED]: 
+    at C:\Users\lu801\Claudecode\osce教案開發\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Database.testConnection (C:\Users\lu801\Claudecode\osce教案開發\src\config\database.js:25:28)
+    at async startServer (C:\Users\lu801\Claudecode\osce教案開發\src\server.js:91:13)

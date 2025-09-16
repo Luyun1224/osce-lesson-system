@@ -1,0 +1,64 @@
+{
+  "numStartups": 1,
+  "installMethod": "unknown",
+  "autoUpdates": true,
+  "tipsHistory": {
+    "new-user-warmup": 1,
+    "memory-command": 1,
+    "theme-command": 1,
+    "status-line": 1,
+    "prompt-queue": 1
+  },
+  "promptQueueUseCount": 1,
+  "cachedStatsigGates": {
+    "tengu_disable_bypass_permissions_mode": false
+  },
+  "firstStartTime": "2025-09-09T13:18:26.491Z",
+  "userID": "226859d24dd86db6170ea31152e04b5e8ee3a2c30ade2e42cf8379702668aa36",
+  "projects": {
+    "C:\\Users\\lu801": {
+      "allowedTools": [],
+      "history": [
+        {
+          "display": "1",
+          "pastedContents": {}
+        },
+        {
+          "display": "好~就先從資料庫設計和基礎api架構開始",
+          "pastedContents": {}
+        },
+        {
+          "display": "我想要做一個OSCE教案開發的系統，這個系統可以依據學員職級(如UGY、PGY、住院醫師) 來設定教案的難易度，內容主要以台灣西醫OSCE國考的內容為主要延伸，我應該怎麼設計?以及我希望內容均是由AI自動開發、自動審核。",
+          "pastedContents": {}
+        },
+        {
+          "display": "你好,你是誰?",
+          "pastedContents": {}
+        }
+      ],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 1,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    }
+  },
+  "oauthAccount": {
+    "accountUuid": "571c965c-bda6-490b-af81-c5944be71823",
+    "emailAddress": "justadream886@gmail.com",
+    "organizationUuid": "222f0a4e-ccda-4d13-bbcc-4126ba195bd5",
+    "organizationRole": "admin",
+    "workspaceRole": null,
+    "organizationName": "justadream886@gmail.com's Organization"
+  },
+  "claudeCodeFirstTokenDate": "2025-09-15T12:18:44.804812Z",
+  "hasCompletedOnboarding": true,
+  "lastOnboardingVersion": "1.0.109",
+  "hasOpusPlanDefault": false,
+  "subscriptionNoticeCount": 0,
+  "hasAvailableSubscription": false,
+  "fallbackAvailableWarningThreshold": 0.5
+}

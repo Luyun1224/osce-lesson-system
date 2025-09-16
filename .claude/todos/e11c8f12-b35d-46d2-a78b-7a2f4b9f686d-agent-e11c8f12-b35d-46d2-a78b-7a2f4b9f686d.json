@@ -1,0 +1,102 @@
+[
+  {
+    "content": "分析OSCE教案系統需求和架構設計",
+    "status": "completed",
+    "activeForm": "分析OSCE教案系統需求和架構設計"
+  },
+  {
+    "content": "設計數據庫架構（用戶職級、教案模板、題庫等）",
+    "status": "completed",
+    "activeForm": "設計數據庫架構"
+  },
+  {
+    "content": "創建數據庫遷移腳本和初始化數據",
+    "status": "completed",
+    "activeForm": "創建數據庫遷移腳本"
+  },
+  {
+    "content": "實現基礎中間件（驗證、限流、錯誤處理）",
+    "status": "completed",
+    "activeForm": "實現基礎中間件"
+  },
+  {
+    "content": "實現基礎API架構（Express.js後端）",
+    "status": "completed",
+    "activeForm": "實現基礎API架構"
+  },
+  {
+    "content": "實現用戶和職級管理API",
+    "status": "completed",
+    "activeForm": "實現用戶和職級管理API"
+  },
+  {
+    "content": "創庺完整的專案說明文檔和設置指引",
+    "status": "completed",
+    "activeForm": "創庺完整的專案說明文檔"
+  },
+  {
+    "content": "實現教案模板和OSCE知識庫API",
+    "status": "completed",
+    "activeForm": "實現教案模板和OSCE知識庫API"
+  },
+  {
+    "content": "創庺完整API測試和使用範例文檔",
+    "status": "completed",
+    "activeForm": "創庺完整API測試和使用範例"
+  },
+  {
+    "content": "實現AI服務整合層（OpenAI/Claude API）",
+    "status": "completed",
+    "activeForm": "實現AI服務整合層"
+  },
+  {
+    "content": "實現智慧難度調整算法",
+    "status": "completed",
+    "activeForm": "實現智慧難度調整算法"
+  },
+  {
+    "content": "實現教案內容生成引擎",
+    "status": "completed",
+    "activeForm": "實現教案內容生成引擎"
+  },
+  {
+    "content": "集成AI服務到路由和創建測試腳本",
+    "status": "completed",
+    "activeForm": "集成AI服務到路由"
+  },
+  {
+    "content": "設計AI審核模塊（內容質量和醫學準確性檢查）",
+    "status": "completed",
+    "activeForm": "設計AI審核模塊"
+  },
+  {
+    "content": "實現醫學內容驗證引擎",
+    "status": "completed",
+    "activeForm": "實現醫學內容驗證引擎"
+  },
+  {
+    "content": "實現教案品質評估系統",
+    "status": "completed",
+    "activeForm": "實現教案品質評估系統"
+  },
+  {
+    "content": "實現自動審核流程和人工審核整合",
+    "status": "completed",
+    "activeForm": "實現自動審核流程和人工審核整合"
+  },
+  {
+    "content": "創庺前端界面設計（教案管理、生成、預覽）",
+    "status": "pending",
+    "activeForm": "創建前端界面設計"
+  },
+  {
+    "content": "集成台灣OSCE國考內容數據庫",
+    "status": "pending",
+    "activeForm": "集成台灣OSCE國考內容數據庫"
+  },
+  {
+    "content": "開發測試用例和系統測試",
+    "status": "pending",
+    "activeForm": "開發測試用例和系統測試"
+  }
+]
